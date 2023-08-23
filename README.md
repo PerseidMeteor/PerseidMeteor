@@ -2,4 +2,4 @@
 
 - 🏫 Junior at 🇨🇳 NWPU
 - 📚 C / C++ / Go.
-- ✍️ [Blogger](https://perseidmeteor.github.io/)
+- ✍️ [Blog](https://perseidmeteor.github.io/)
